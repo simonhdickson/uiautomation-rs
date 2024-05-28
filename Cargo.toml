@@ -8,7 +8,7 @@ members = [
     "samples/uia_notepad",
     "samples/uia_varaint",
     "samples/win_update", 
-    "tests/core_test",
+    "tests/core_test", "samples/uia_event_handler",
 ]
 
 resolver = "2"
